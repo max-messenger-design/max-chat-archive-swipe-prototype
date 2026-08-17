@@ -468,9 +468,20 @@ body[data-screen="hidden"] .chat-phone.is-swiping .chat-list {
 
 .verified img {
   position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
+}
+
+.verified img:first-child {
+  top: 0.5328px;
+  left: 0.5328px;
+  width: 14.9344px;
+  height: 14.9344px;
+}
+
+.verified img:last-child {
+  top: 5.15px;
+  left: 4.175px;
+  width: 7.65px;
+  height: 5.7px;
 }
 
 .inline-icon {
@@ -509,8 +520,8 @@ body[data-screen="hidden"] .chat-phone.is-swiping .chat-list {
 .video-preview .play {
   position: absolute;
   z-index: 1;
-  width: 12px;
-  height: 12px;
+  width: 5.97556px;
+  height: 7.19172px;
 }
 
 .archive-row-pin {
