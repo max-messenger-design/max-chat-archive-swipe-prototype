@@ -1,0 +1,9 @@
+.DS_Store
+.pnpm-store/
+node_modules/
+.env
+.env.*
+published-site/
+.openai/
+dist/
+AGENTS.md
