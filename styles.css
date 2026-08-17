@@ -828,8 +828,8 @@ body[data-screen="hidden"] .chat-phone.is-swiping .chat-list {
 }
 
 .archive-close img {
-  width: 14px;
-  height: 14px;
+  width: 16px;
+  height: 16px;
   filter: invert(1);
   transform: rotate(45deg);
 }
